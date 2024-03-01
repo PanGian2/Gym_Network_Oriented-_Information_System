@@ -16,3 +16,8 @@ Initially our database is implemented in MySQL. There are a total of 7 tables as
 
 In order to connect our database to our website we have implemented the necessary Rest APIs. The APIs are implemented in java with the help of the JAX-RS and Jersey library. In order to do this we have created a Dynamic Web Project named GymWService which we have converted it into a Maven Project.
 
+Also for the implementation we used XAMPP and specifically Apache server, MySQL and Tomcat
+
+## Screenshot
+
+![image](https://github.com/PanGian2/Gym_Network_Oriented-_Information_System/assets/122677298/acf63420-313d-49c5-86f1-0857bc7296aa)
